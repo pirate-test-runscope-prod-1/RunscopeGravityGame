@@ -658,10 +658,10 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				DEVELOPMENT_TEAM = 9KBH5RKYEW;
+				DEVELOPMENT_TEAM = BGSR8DRP9M;
 				INFOPLIST_FILE = Gravity/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.CleanReactNative-df;
+				PRODUCT_BUNDLE_IDENTIFIER = com.akvelon.dri.CleanReactNative-df;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "1d5343ee-b629-4d0f-aeb8-374bcd744774";
 				PROVISIONING_PROFILE_SPECIFIER = "CleanReactNative Dogfood Distribution";
